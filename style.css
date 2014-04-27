@@ -83,3 +83,21 @@ article {
 	padding: 2px 2px 2px 22px;
 	height: 30px;
 }
+header {
+	background-color: #171717;
+	color: #FDFDFB;
+  width:170px;
+  float:right;
+  position:fixed;
+	border: 1px solid #000;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding: 34px 25px 22px 50px;
+	margin: 30px 25px 0 0;
+	-webkit-font-smoothing: antialiased;
+}
+
