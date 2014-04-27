@@ -52,14 +52,14 @@ a:hover {
 #menu {
 	width:150px;
 	display: block;
-	float:left;
-	margin-left:-40px;
+	float:right;
+	margin-right:-40px;
 	}
 
 #menu ul {
 	list-style: none;
-	float:left;
-	margin-left:0;
+	float:right;
+	margin-right:0;
 	border-right: 1px solid yellow;
 	}
 	
