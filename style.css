@@ -100,4 +100,8 @@ header {
 	margin: 30px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
 }
-
+section {
+  width:650px;
+  float:right;
+  padding-bottom:50px;
+}
