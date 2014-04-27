@@ -64,9 +64,8 @@ a:hover {
 	}
 	
 article {
-	width:500px;
+	width:700px;
 	display: block;
-	float:right;
 	}
 a.buttons {
 	-webkit-font-smoothing: antialiased;
