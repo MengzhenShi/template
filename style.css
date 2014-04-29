@@ -73,6 +73,9 @@ strong {
 	float: left;
 	margin: 0;
 }
+.ccc{ 
+    text-transform: capitalize;
+}
 
 #wrapper {
 	background: url(images/img2.jpg) repeat-x;
